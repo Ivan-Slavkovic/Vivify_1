@@ -1,0 +1,22 @@
+.movie-card {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    max-width: 300px;
+    width: 300px;
+}
+
+.movie-card.card {
+    height: 450px;
+}
+
+.card-footer-badge {
+    font-size: 1rem;
+}
+
+.form{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 10px;
+}
